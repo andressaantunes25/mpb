@@ -1,0 +1,42 @@
+body{
+  font-family: fantasy;
+  margin:0;
+  padding:0;
+}
+
+header{
+  background-color: #df9252 ;
+  text-align: center;
+}
+
+div.g{
+  max-width:1200px;
+  margin:0 auto;
+  padding:10px;
+  color: ;}
+
+section{
+  background-color: #ffffff  ;
+}
+ div.f{
+  max-width:1200px;
+  margin:0 auto;
+  padding:10px;
+  color: ;
+ }
+
+ footer{
+  background-color:#cf0f0f;
+  text-align: center; 
+}
+
+div.t{
+  max-width:1200px;
+  margin:0 auto;
+  padding:10px;
+  color: #ffffff ;}
+
+img{
+  display: block;
+  margin: 0 auto;
+}
