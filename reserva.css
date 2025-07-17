@@ -40,3 +40,32 @@ img{
   display: block;
   margin: 0 auto;
 }
+
+nav.menu {
+   background-color: #cba254;
+ }
+
+ .menu ul {
+   list-style: none;
+   margin: 0 auto;
+   padding: 0;
+   display: flex;
+   max-width: 1000px;
+   justify-content: center;
+ }
+
+ .menu li {
+   margin: 0;
+ }
+
+ .menu a {
+   display: block;
+   padding: 15px 20px;
+   color: #fff;
+   text-decoration: none;
+ }
+
+ .menu a:hover {
+   background-color: #54cba0;
+   color: #000;
+ }
